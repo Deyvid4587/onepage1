@@ -1,5 +1,6 @@
 div img{
     background-image:Cine imagem();
+    background-color:yellow;
     height: 300px;
     width:1000px;
     position: relative;
